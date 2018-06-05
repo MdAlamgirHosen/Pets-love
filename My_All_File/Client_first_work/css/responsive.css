@@ -1,0 +1,205 @@
+/* This CSS for small Mobile*/
+@media (max-width: 450px) {
+ .my_nav_style {background:green;
+	margin-left: 4%;
+} 
+}
+
+/* This CSS for Tablet */
+@media (min-width: 768px) {
+.my_nav_style {
+	margin-left: 12%;
+}
+.my_nav_style ul{padding-top:35px;}
+.my_nav_style ul li a{padding: 10px 3px;
+display: block;
+font-size: 15px;}
+.top_left{
+	padding: 10px 0px 15px;
+	font-size: 15px;
+}
+
+.btn2 {
+	display: inline-block;
+	margin-left: 5px;
+	width: 108px;
+}
+.btn1 {
+	display: inline-block;
+	width: 129px;
+}
+.btn0 {
+	display: inline-block;
+	width: 24%;
+}
+.banner_area {
+	float: right;
+	margin-right: 18%;
+}
+.aside_top2 a{color:#000; font-size:19px;}
+.aside_top3 a{color:#000; font-size:19px;}
+.aside_top4 p {
+	font-size: 13px;
+	text-align: center;
+}
+.aside_top4 ul li a {
+	color: #000;
+	font-size: 8px;
+}
+.aside_top5 a {
+	font-size: 19px;
+	background: #fff;
+	color: #000;
+	padding:5px;
+}
+.one_overlay::after {
+	margin-right: -5px;
+	border-bottom: 5px solid transparent;
+	border-left: 14px solid red;
+	border-right: 15px solid red;
+	content: "";
+	position: absolute;
+	right: 5px;
+	bottom: -5px;
+}
+.side_img {
+	display: inline-block;
+	width: 88px;
+}
+.side_text h2 {
+	font-size: 18px;
+}
+.side_text p {
+	font-size: 11px;
+}
+.side_img1{
+	display: inline-block;
+	width: 91px;
+}
+.content_p p {
+	float: left;
+	max-width: 271px;
+	font-size: 16px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+.aside_top7 {
+	background: #cccccc;
+	padding: 55px 46px;
+}
+
+.content_other_p a {
+	padding: 22px 15px 15px 15px;
+	font-size: 11px;
+}
+.otheradd {
+	width: 54%;
+}
+.table_first1 {
+	font-size: 10px;
+}
+.table_first1 span {
+	font-size: 21px;
+}
+.mrg_first_bottom a {
+	padding: 10px 5px;
+	margin-left: 1px;
+	font-size: 11px;
+}
+.bottom_btn {
+	padding: 10px 13px !important;
+}
+.cont_text1 {
+	line-height: 10px;
+}
+.form_section a{font-size:11px;}
+.form_section legend{font-size:21px; }
+.btn_overlay_top a {
+	font-size: 14px;
+}
+
+
+
+}
+	
+/* This CSS for Medium Devices */
+@media (min-width: 992px) {
+.my_nav_style {
+	margin-left: 5%;
+}
+.my_nav_style ul{padding-top:35px;}
+.my_nav_style ul li a{padding:10px 22px;display:block; font-size:18px;}
+.top_left{
+	padding: 10px 0px 15px;
+	font-size: 22px;
+}
+.btn0{display:inline-block}
+.btn1 {
+	display: inline-block;
+	width: 198px;
+}
+ .btn2 {
+	display: inline-block;
+	margin-left: 5px;
+	width: 169px;
+}
+.banner_area{float:right; margin-right:30%;}
+.aside_top2 a{color:#000; font-size:30px;}
+.aside_top3 a{color:#000;font-size:30px;}
+.aside_top4 p{font-size:18px; text-align:center;} 
+
+.aside_top4 ul li a{color:#000;font-size:12px;} 
+.aside_top5 a{font-size:32px; background:#fff;color:#000;}
+.one_overlay::after{margin-right:-5px;
+	border-bottom: 5px solid transparent;
+	border-left: 20px solid red;
+	border-right: 23px solid red;
+	content: "";
+	position: absolute;
+	right: 5px;
+	bottom: -5px;}
+.side_img {
+	display: inline-block;
+	width: 137px;
+} 
+.side_img1 {
+	display: inline-block;
+	width: 172px;
+} 
+.side_text p{font-size:15px; } 
+.side_text h2{font-size:36px;} 
+
+.content_p p{float:left; max-width:587px; font-size:18px; font-weight:bold; margin-right:30px;}
+.aside_top7{background:#cccccc; padding:55px 85px;}
+.content_other_p a{ padding:19px 15px 15px 15px;font-size:18px;}
+.otheradd{width:70%;}
+.table_first1 span{font-size:26px;}
+.table_first1 {
+	font-size: 16px;
+}
+.mrg_first_bottom a{font-size:17px; padding:10px 30px; margin-left:20px; }
+.bottom_btn{padding:10px 60px!important;}
+.cont_text1 {
+	line-height: 16px;
+}
+.form_section a{font-size:22px;}
+.form_section legend{font-size:34px; }
+.btn_overlay_top a {
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+/* This CSS for Large Devices */
+@media (min-width: 1200px) {
+
+}
