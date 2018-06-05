@@ -1,0 +1,22 @@
+/* This CSS for small Mobile*/
+@media screen and (max-width: 767px) {
+.second_img {width:70%;}
+.first_img {width:70%;}
+}
+
+/* This CSS for Tablet */
+@media screen and(min-width: 768px) {
+
+.second_img {width:70%;}
+.first_img {width:70%;}
+}
+
+/* This CSS for Medium Devices */
+@media screen and (min-width: 992px) {
+
+}
+
+/* This CSS for Large Devices */
+@media screen and(min-width: 1200px) {
+
+}
